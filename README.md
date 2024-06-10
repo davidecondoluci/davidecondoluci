@@ -22,7 +22,6 @@ My name is Davide and I'm a Frontend developer & Graphic designer, from Italy
 ![WordPress](https://skillicons.dev/icons?i=wordpress)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Codepen](https://skillicons.dev/icons?i=codepen)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Illustrator](https://skillicons.dev/icons?i=illustrator)
