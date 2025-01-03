@@ -8,7 +8,7 @@ My name is Davide and I'm a Frontend developer & Graphic designer, from Italy
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="20" height="20" /> I’m currently learning: React, Tailwind, Framer Motion
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="20" height="20" /> Know about my experiences: [davidecondoluci.com](davidecondoluci.com)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="20" height="20" /> Know about my experiences: [davidecondoluci.com](https://davidecondoluci.com/)
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="20" height="20" /> Fun fact: I think I am a very precise person. I enjoy playing soccer as a goalkeeper, I always listen to music, and I am passionate about Lego.
 
