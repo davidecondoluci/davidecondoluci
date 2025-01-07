@@ -6,7 +6,7 @@ My name is Davide and I'm a Frontend developer & Graphic designer, from Italy
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> About me
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eye.png" alt="Eye" width="20" height="20" /> I’m currently working on: [Eidosmedia research-portal](https://research-portal-alpha.vercel.app/it/portal/home)
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="20" height="20" /> I’m currently learning: React, Tailwind, Framer Motion
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="20" height="20" /> I’m currently learning: React, Tailwind, MUI, Next.js
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="20" height="20" /> Know about my experiences: [davidecondoluci.com](https://davidecondoluci.com/)
 <br>
@@ -22,6 +22,7 @@ My name is Davide and I'm a Frontend developer & Graphic designer, from Italy
 ![WordPress](https://skillicons.dev/icons?i=wordpress)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Materialui](https://skillicons.dev/icons?i=materialui)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Illustrator](https://skillicons.dev/icons?i=illustrator)
